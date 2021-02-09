@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		F0C44AB025D22FD700920FC0 /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		F0EF4FF723EE9DA000FAB7CA /* mineBot */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = mineBot; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0EF4FFA23EE9DA000FAB7CA /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -41,6 +42,7 @@
 		F0EF4FEE23EE9DA000FAB7CA = {
 			isa = PBXGroup;
 			children = (
+				F0C44AB025D22FD700920FC0 /* LICENSE */,
 				F0EF4FF923EE9DA000FAB7CA /* mineBot */,
 				F0EF4FF823EE9DA000FAB7CA /* Products */,
 			);
